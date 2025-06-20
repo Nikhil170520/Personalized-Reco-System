@@ -1,9 +1,0 @@
-streamlit
-torch
-torchvision
-opencv-python
-numpy
-matplotlib
-Pillow
-
-streamlit run "d:/VS Code/projects/Image Captioning Segmentation/app.py"
